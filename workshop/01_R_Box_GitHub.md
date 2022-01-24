@@ -1,3 +1,6 @@
+layout: page
+title: "Introduction to Box/R"
+permalink: /workshop/01_R_Box_GitHub
 
 # Introduction to Box/R
 
